@@ -1,0 +1,465 @@
+Welcome to The Pirate Supply Shoppe!
+What can I get for you today?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 1
+How many would you like? 1
+Happy hunting!
+1 Small Cannon Ball has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 1
+How many would you like? 2
+Happy hunting!
+2 Small Cannon Balls have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 2
+How many would you like? 1
+Happy hunting!
+1 Medium Cannon Ball has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 2
+How many would you like? 4
+Happy hunting!
+4 Medium Cannon Balls have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 3
+How many would you like? 7
+Happy hunting!
+7 Large Cannon Balls have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 3
+How many would you like? 0
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 4
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 1
+Gotta keep the crew happy!
+How many barrels would you like? 1
+1 Barrel of Swill has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 1
+Gotta keep the crew happy!
+How many barrels would you like? 2
+2 Barrels of Swill have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 2
+The officers will love it!
+How many barrels would you like? 2
+2 Barrels of Grog have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 2
+The officers will love it!
+How many barrels would you like? 1
+1 Barrel of Grog has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 3
+Nothing but the best for the captain!
+How many barrels would you like? 5
+5 Barrels of Fine Rum have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 2
+The officers will love it!
+How many barrels would you like? 1
+1 Barrel of Grog has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 3
+Nothing but the best for the captain!
+How many barrels would you like? 0
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 6
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 3
+
+Limes arrr delicious. They're on sale for 7 pieces of eight per dozen.
+How many dozen would you like? 1
+12 Limes have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 3
+
+Limes arrr delicious. They're on sale for 7 pieces of eight per dozen.
+How many dozen would you like? 2
+24 Limes have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 3
+
+Limes arrr delicious. They're on sale for 7 pieces of eight per dozen.
+How many dozen would you like? 0
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 4
+
+That looks like a rough injury.
+  1) Eyepatch  4 pieces of eight
+  2) Pegleg   13 pieces of eight
+  3) Hook     43 pieces of eight
+You're going to need a ... 1
+1 Eyepatch has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 4
+
+That looks like a rough injury.
+  1) Eyepatch  4 pieces of eight
+  2) Pegleg   13 pieces of eight
+  3) Hook     43 pieces of eight
+You're going to need a ... 2
+We'll be getting more crutches in stock early next week.
+1 Pegleg has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 4
+
+That looks like a rough injury.
+  1) Eyepatch  4 pieces of eight
+  2) Pegleg   13 pieces of eight
+  3) Hook     43 pieces of eight
+You're going to need a ... 3
+1 Hook has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 4
+
+That looks like a rough injury.
+  1) Eyepatch  4 pieces of eight
+  2) Pegleg   13 pieces of eight
+  3) Hook     43 pieces of eight
+You're going to need a ... 4
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 4
+
+That looks like a rough injury.
+  1) Eyepatch  4 pieces of eight
+  2) Pegleg   13 pieces of eight
+  3) Hook     43 pieces of eight
+You're going to need a ... 0
+Transaction cancelled.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 6
+We're completely out of that today. Check back tomorrow.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 7
+We're completely out of that today. Check back tomorrow.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 0
+We're completely out of that today. Check back tomorrow.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 1
+
+Cannon Balls come in three sizes:
+  1) Small     6 pieces of eight per Cannon Ball
+  2) Medium   15 pieces of eight per Cannon Ball
+  3) Large    52 pieces of eight per Cannon Ball
+What size would you like? 2
+How many would you like? 3
+Happy hunting!
+3 Medium Cannon Balls have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 2
+
+We have three different qualities of Rum in stock:
+  1) Swill     1 pieces of eight per barrel
+  2) Grog      5 pieces of eight per barrel
+  3) Fine Rum 19 pieces of eight per barrel
+What kind would you like? 3
+Nothing but the best for the captain!
+How many barrels would you like? 1
+1 Barrel of Fine Rum has been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 3
+
+Limes arrr delicious. They're on sale for 7 pieces of eight per dozen.
+How many dozen would you like? 4
+48 Limes have been added to your shopping cart.
+
+What else can I get for you?
+  1) Cannon Balls
+  2) Rum
+  3) Limes
+  4) Apparel
+  5) Done Shopping
+What would you like? 5
+
+Let me just get your receipt for you.
+1 Eyepatch                             4
+1 Hook                                43
+1 Pegleg                              13
+2 Small Cannon Balls                  12
+1 Small Cannon Ball                    6
+1 Medium Cannon Ball                  15
+4 Medium Cannon Balls                 60
+3 Medium Cannon Balls                 45
+7 Large Cannon Balls                 364
+48 Limes                              28
+24 Limes                              14
+12 Limes                               7
+2 Barrels of Swill                     2
+1 Barrel of Swill                      1
+1 Barrel of Grog                       5
+1 Barrel of Grog                       5
+2 Barrels of Grog                     10
+5 Barrels of Fine Rum                 95
+1 Barrel of Fine Rum                  19
+Total                                748

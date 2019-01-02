@@ -1,0 +1,23 @@
+number_of_students 19
+number_of_assignments 6
+student_number first_name last_name 10 10 10 10 10 10
+46071	PETYR	BAELISH	8	8	5	3	8	4
+76416	GREGOR	CLEGANE	4	6	8	10	9	4
+74675	SANDOR	CLEGANE	7	2	5	4	7	4
+16091	KHAL	DROGO	9	1	6	3	3	1
+79010	albus 	dumbledore	2	3	7	10	2	1
+93891	hermione	granger	8	1	8	3	1	5
+72390	rubeus	hagrid	8	7	2	9	4	10
+94018	CERSEI	LANNISTER	4	1	10	1	1	4
+48466	TYRION	LANNISTER	1	2	9	10	2	8
+57052	luna	lovegood	1	2	10	3	2	8
+55863	draco	malfoy	3	3	9	6	10	5
+43734	harry	potter	7	10	4	8	9	5
+59620	severus	snape	1	5	2	1	10	1
+91485	JON	SNOW	8	7	9	7	8	3
+79697	ARYA	STARK	1	10	6	1	8	5
+78544	SANSA	STARK	6	8	4	6	10	2
+45865	EDDARD	STARK	3	8	10	10	9	7
+27277	lord	voldemort	5	5	7	7	9	3
+74158	ron	weasley	3	6	1	4	2	7
+
