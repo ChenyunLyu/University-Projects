@@ -1,0 +1,18 @@
+Hi I'm Eliza, what is your name?
+Minsub
+Nice to meet you Minsub. What is on your mind?
+I can't do that
+DEBUG phrases: [i can't do that]
+DEBUG selected phrase: i can't do that
+DEBUG after input word swap: i cannot do that
+Does that computer on your desk work?
+DEBUG phrases: [does that computer on your desk work]
+DEBUG selected phrase: does that computer on your desk work
+DEBUG after input word swap: does that computer on your desk work
+No. I'm talking to my dog.
+DEBUG phrases: [no, i'm talking to my dog]
+DEBUG selected phrase: i'm talking to my dog
+DEBUG after input word swap: i am talking to my dog
+bye
+DEBUG phrases: [bye]
+Goodbye Minsub.

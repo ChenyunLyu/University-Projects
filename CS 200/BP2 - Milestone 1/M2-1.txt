@@ -1,0 +1,10 @@
+Hi I'm Eliza, what is your name?
+Fred
+Nice to meet you Fred. What is on your mind?
+I said goodbye
+DEBUG phrases: [i said goodbye]
+DEBUG selected phrase: i said goodbye
+DEBUG after input word swap: i said goodbye
+goodbye, I said
+DEBUG phrases: [goodbye, i said]
+Goodbye Fred.
